@@ -5,3 +5,5 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 
 Customer Account Profitability Analysis, Combined and cleaned multi-source retail order data to analyze customer-level profitability and identify accounts requiring pricing review. Built an interactive Tableau dashboard comparing net contributions, revenue, discounts, and cost-to-serve. Link to published Tableau workbook: https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_2AnshulShah/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link If I were doing this again, I'd spend more time refining the dashboard layout and simplifying the presentation for executive users.
 
+
+Introduction to Power BI, September 27th 2026, https://public.tableau.com/views/PowerBIBusinessIntelligenceTraining_17906109329990/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
