@@ -23,3 +23,7 @@ At Southwest, I would keep Excel for one-off checks and for cleanup a colleague 
 
 
 Card Portfolio Review - Contactless Readiness,  Which non-contactless cards should Bear Down Bank prioritize for early replacement to improve contactless readiness while minimizing unnecessary replacement costs?,Tableau link: https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_3AnshulShah/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I completed this analysis again, I would incorporate additional factors, such as card usage frequency and transaction activity, to better prioritize replacements
+
+
+
+Wildcat Rewards Card - Pre-Approval Analysis, Which customer segments should Bear Down Bank prioritize for its Wildcat Rewards Card pre-approval pilot to maximize eligibility and target qualified customers?, Tableau link: https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_4AnshulShah/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I completed this analysis again, I would incorporate additional factors, such as customer income, credit utilization, and spending behavior, to better identify qualified customers and improve the targeting of future credit card offers.
