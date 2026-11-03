@@ -27,3 +27,14 @@ Card Portfolio Review - Contactless Readiness,  Which non-contactless cards shou
 
 
 Wildcat Rewards Card - Pre-Approval Analysis, Which customer segments should Bear Down Bank prioritize for its Wildcat Rewards Card pre-approval pilot to maximize eligibility and target qualified customers?, Tableau link: https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_4AnshulShah/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, If I completed this analysis again, I would incorporate additional factors, such as customer income, credit utilization, and spending behavior, to better identify qualified customers and improve the targeting of future credit card offers.
+
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Bear Down Bank: Recommend prioritizing the replacement of non-contactless debit and prepaid debit cards as they approach expiration, beginning with the 1,253 non-contactless cards expiring within six months to increase contactless adoption and minimize unnecessary replacement costs.
+
+[Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:4618639a-f698-483f-a357-67372639b7f2?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+**Design choice:** I used a combination of bar charts and an expiration timeline to highlight differences in contactless adoption across card types and identify upcoming replacement opportunities. I emphasized the 1,253 non-contactless cards expiring within six months because this provides a clear, actionable starting point for card modernization. The infographic uses Clearpoint Analytics branding, consistent colors, and key performance indicators to communicate the findings and recommendation clearly.
+
+Training completed: [November 2nd 2026]
