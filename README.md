@@ -48,6 +48,6 @@ Pitch to Bear Down Bank's leadership team: approve a six-week first phase to dev
 
 Toughest objection: "Why not replace all non-contactless cards immediately?" Slide 5 answers it by proposing a phased planning engagement that prioritizes cards approaching expiration, limiting unnecessary early replacements and operational disruption. The six-week first phase focuses on analysis and planning rather than immediately replacing cards.
 
-AI use: ChatGPT (OpenAI GPT-6), November 16, 2026 — assisted with presentation structure, action titles, slide content, and objection analysis for Slides 1–6.
+AI use: ChatGPT (OpenAI GPT-6), November 16, 2026 — assisted with presentation structure and review
 
 Training completed: [November 15 2026]
