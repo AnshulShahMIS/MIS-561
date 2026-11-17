@@ -38,3 +38,16 @@ Work sample for Bear Down Bank: Recommend prioritizing the replacement of non-co
 **Design choice:** I used a combination of bar charts and an expiration timeline to highlight differences in contactless adoption across card types and identify upcoming replacement opportunities. I emphasized the 1,253 non-contactless cards expiring within six months because this provides a clear, actionable starting point for card modernization. The infographic uses Clearpoint Analytics branding, consistent colors, and key performance indicators to communicate the findings and recommendation clearly.
 
 Training completed: [November 2nd 2026]
+
+
+**November 16, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Bear Down Bank's leadership team: approve a six-week first phase to develop a prioritized contactless card modernization strategy.
+
+[Pitch deck (PDF)](https://github.com/AnshulShahMIS/MIS-561/blob/main/adobe/shah-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:0be915e8-9425-5bb8-9a99-b51c4c20c27c?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: "Why not replace all non-contactless cards immediately?" Slide 5 answers it by proposing a phased planning engagement that prioritizes cards approaching expiration, limiting unnecessary early replacements and operational disruption. The six-week first phase focuses on analysis and planning rather than immediately replacing cards.
+
+AI use: ChatGPT (OpenAI GPT-6), November 16, 2026 — assisted with presentation structure, action titles, slide content, and objection analysis for Slides 1–6.
+
+Training completed: [November 15 2026]
