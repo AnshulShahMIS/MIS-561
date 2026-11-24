@@ -51,3 +51,15 @@ Toughest objection: "Why not replace all non-contactless cards immediately?" Sli
 AI use: ChatGPT (OpenAI GPT-6), November 16, 2026 — assisted with presentation structure and review
 
 Training completed: [November 15 2026]
+
+
+
+**November 23, 2026 · Brand Standard Application in Tableau**
+
+Rebranded an IMDb movie dashboard using IMDb's brand standards and developed an explanatory dashboard for Dana Ruiz, VP of Advertising Sales, to determine which movie genres should lead next year's advertising pitch based on audience engagement from 2000–2023.
+
+[Tableau workbook](https://public.tableau.com:9443/views/BrandStandardApplicationinTableauAnshulShah/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+One thing I'd change: I would establish the dashboard's color scheme and typography before formatting individual visualizations to reduce rework and ensure consistent branding and accessibility throughout the dashboard.
+
+AI use: OpenAI ChatGPT (GPT-6.2) assisted with visualization selection, Tableau troubleshooting, brand consistency, accessibility improvements, and drafting the design justification and dashboard information panel, November 2026. All visualizations and numerical results were produced in Tableau using the provided IMDb dataset.
